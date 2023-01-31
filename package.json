@@ -1,0 +1,19 @@
+{
+  "name": "developer-quiz-api",
+  "version": "1.0.0",
+  "description": "This application was created by Elle Crehel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElleCrehel/developer-quiz-api.git"
+  },
+  "author": "Elle Crehel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElleCrehel/developer-quiz-api/issues"
+  },
+  "homepage": "https://github.com/ElleCrehel/developer-quiz-api#readme"
+}
