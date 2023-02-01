@@ -1,4 +1,13 @@
 :root {
     --black: #000;
     --white: #fff;
+    --red:#EF2828;
+    --orange:#FDA974;
+    --green:#77F482;
+    --purple:#373568;
+    --transparent--purple:#373568cd;
+    --bright--pink:#FE51C0;
+    --light--pink:#FF84B0;
+    
+    --text--normal: 'Courier New', Courier, monospace;
 }

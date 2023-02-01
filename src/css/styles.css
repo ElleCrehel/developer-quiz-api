@@ -1,0 +1,50 @@
+.categories {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.categories h1 {
+  font-size: 65px;
+  margin: 0;
+}
+
+.categories h2 {
+  font-size: 30px;
+  margin: 10px;
+}
+
+.buttonsCategories {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.btnCategories {
+  margin: 10px;
+  background-color: var(--purple);
+  width: 150px;
+  height: 180px;
+  font-size: 14px;
+  color: #fff;
+  background-color: var(--transparent--purple);
+  padding: 38px 15px;
+  border: none;
+  border-radius: 12px;
+  transition: 502ms;
+  transform: translateY(0);
+  cursor: pointer;
+}
+
+.btnCategories:hover{
+  font-weight: bold;
+  border: 5px solid var(--purple);
+}
+
+.goToDifficulty {
+  width: 100px;
+  height: 50px;
+  margin: 50px;
+}
